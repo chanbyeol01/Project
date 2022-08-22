@@ -16,7 +16,7 @@
 
 ### [American Express - Default Prediction] - kaggle
  * Data reference : https://www.kaggle.com/competitions/amex-default-prediction/data
-<img src="[https://user-images.githubusercontent.com/108512808/185540381-1258f378-3e77-4cbf-b75a-ccce94793ecb.png](https://user-images.githubusercontent.com/108512808/185823336-2ddbcb0a-b9da-46c0-8292-ad2b7f6c99b7.jpg" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/108512808/185825515-99468dc4-2f9a-460a-9e06-2c2e5678baa4.jpg" width="800" height="400">
 
  * Content : 
     * EDA
