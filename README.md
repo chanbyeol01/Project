@@ -13,5 +13,5 @@
 
 ## Team project
 
-## [American Express - Default Prediction] - kaggle
+### [American Express - Default Prediction] - kaggle
  * Data reference : https://www.kaggle.com/competitions/amex-default-prediction/data
