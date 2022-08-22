@@ -8,3 +8,9 @@
  * Content : Analyze the relationship between stress and physiological changes related sleep [code](https://github.com/chanbyeol01/Project/blob/main/Human_sleep_stress/model_sleepstress.py)
    *  EDA
    *  Baseline & Improved Model building 
+
+
+## Team project
+
+## [American Express - Default Prediction] - kaggle
+ * Data reference : https://www.kaggle.com/competitions/amex-default-prediction/data
