@@ -1,6 +1,6 @@
 # Project
 
-### [Human Stress Detection in and through Sleep] - kaggle
+## [Human Stress Detection in and through Sleep] - kaggle
  * Data reference : https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?datasetId=1936400&sortBy=voteCount&select=SaYoPillow.csv
 <img src="https://user-images.githubusercontent.com/108512808/185540381-1258f378-3e77-4cbf-b75a-ccce94793ecb.png" width="800" height="400">
 
@@ -9,7 +9,7 @@
    *  Baseline & Improved Model building 
 
 
-### [American Express - Default Prediction] - kaggle
+## [American Express - Default Prediction] - kaggle
  * Data reference : https://www.kaggle.com/competitions/amex-default-prediction/data
 <img src="https://user-images.githubusercontent.com/108512808/185825515-99468dc4-2f9a-460a-9e06-2c2e5678baa4.jpg" width="800" height="400">
 
