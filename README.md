@@ -13,6 +13,6 @@
  * Data reference : https://www.kaggle.com/competitions/amex-default-prediction/data
 <img src="https://user-images.githubusercontent.com/108512808/185825515-99468dc4-2f9a-460a-9e06-2c2e5678baa4.jpg" width="800" height="400">
 
- * Content : 
+ * Content : Predict if a customer will default in the future
     * EDA
     * Model building
