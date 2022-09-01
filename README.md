@@ -14,5 +14,5 @@
 <img src="https://user-images.githubusercontent.com/108512808/185825515-99468dc4-2f9a-460a-9e06-2c2e5678baa4.jpg" width="800" height="400">
 
  * Content : Predict if a customer will default in the future
-    * EDA
+    * EDA [code](https://github.com/chanbyeol01/Project/blob/main/Amex/Amex_EDA.py)
     * Model building
