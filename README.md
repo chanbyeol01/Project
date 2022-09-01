@@ -15,4 +15,4 @@
 
  * Content : Predict if a customer will default in the future
     * EDA [code](https://github.com/chanbyeol01/Project/blob/main/Amex/Amex_EDA.py)
-    * Model building
+    * Model building [code](https://github.com/chanbyeol01/Project/blob/main/Amex/Amex_LGBM.py)
